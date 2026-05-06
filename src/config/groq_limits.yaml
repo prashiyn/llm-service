@@ -1,0 +1,6 @@
+default_rpm: 30
+default_rpd: 1000
+models:
+  groq/llama-3.3-70b-versatile:
+    rpm: 30
+    rpd: 1000
