@@ -1,3 +1,9 @@
+# Moved
+
+This service now lives in the [common_rag](https://github.com/prashiyn/common_rag) monorepo under `llm-service/`.
+
+---
+
 # llm-service
 
 Standalone `/llm` gateway extracted from the monolith.
